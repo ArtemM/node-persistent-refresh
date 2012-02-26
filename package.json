@@ -1,0 +1,17 @@
+{
+    "name": "persistent-refresh",
+    "description": "Automatically reloads page in browser when something modified under folder watched.",
+    "url": "https://github.com/ArtemM/node-persistent-refresh/",
+    "keywords": ["util", "refresh"],
+    "author": {
+        "name": "ArtemM",
+        "email": "<chupakabr@gmail.com>"
+    },
+    "contributors"  : [],
+    "dependencies"  : ["socket.io", "optimist", "walk", "log4js", "inotify"],
+    "preferGlobal": true,
+    "lib": "lib",
+    "main": "lib/persistent-refresh.js",
+    "bin": "lib/cli-wrapper.js",
+    "version": "0.0.1"
+}
