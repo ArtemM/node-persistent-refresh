@@ -18,4 +18,6 @@ Works only with HTML pages.
 Installation
 ====
 
+Not working yet
+---
 npm install persistent-refresh
