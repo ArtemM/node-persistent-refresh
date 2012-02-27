@@ -18,7 +18,5 @@ Usage
 Installation
 ====
 
-Not working yet
-----
-
-    npm install persistent-refresh
+    npm install persistent-refresh -g
+Installs globally so it will be accessible not only from module folder.
